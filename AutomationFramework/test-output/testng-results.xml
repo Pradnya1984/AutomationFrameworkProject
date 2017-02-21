@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="0" started-at="2017-02-21T17:35:58Z" finished-at="2017-02-21T17:35:58Z">
+    <groups>
+    </groups>
+  </suite> <!-- Suite -->
+  <suite name="Suite (1)" duration-ms="8151" started-at="2017-02-21T17:35:03Z" finished-at="2017-02-21T17:35:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8151" started-at="2017-02-21T17:35:03Z" finished-at="2017-02-21T17:35:11Z">
+      <class name="com.wbl.test.LoginPageTest">
+        <test-method status="PASS" signature="beforesuite()[pri:0, instance:com.wbl.test.LoginPageTest@55d56113]" name="beforesuite" is-config="true" duration-ms="9487" started-at="2017-02-21T12:34:53Z" finished-at="2017-02-21T12:35:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method status="PASS" signature="before()[pri:0, instance:com.wbl.test.LoginPageTest@55d56113]" name="before" is-config="true" duration-ms="6100" started-at="2017-02-21T12:35:03Z" finished-at="2017-02-21T12:35:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="testlogin()[pri:0, instance:com.wbl.test.LoginPageTest@55d56113]" name="testlogin" duration-ms="2046" started-at="2017-02-21T12:35:09Z" finished-at="2017-02-21T12:35:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:com.wbl.test.LoginPageTest@55d56113]" name="aftersuite" is-config="true" duration-ms="344" started-at="2017-02-21T12:35:11Z" finished-at="2017-02-21T12:35:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- com.wbl.test.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (1) -->
+  <suite name="Suite (0)" duration-ms="17159" started-at="2017-02-21T17:34:35Z" finished-at="2017-02-21T17:34:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17159" started-at="2017-02-21T17:34:35Z" finished-at="2017-02-21T17:34:53Z">
+      <class name="com.wbl.test.HomePageTest">
+        <test-method status="PASS" signature="beforesuite()[pri:0, instance:com.wbl.test.HomePageTest@56ac3a89]" name="beforesuite" is-config="true" duration-ms="10753" started-at="2017-02-21T12:34:25Z" finished-at="2017-02-21T12:34:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method status="PASS" signature="before()[pri:0, instance:com.wbl.test.HomePageTest@56ac3a89]" name="before" is-config="true" duration-ms="2" started-at="2017-02-21T12:34:35Z" finished-at="2017-02-21T12:34:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="testNavLink()[pri:0, instance:com.wbl.test.HomePageTest@56ac3a89]" name="testNavLink" duration-ms="2501" started-at="2017-02-21T12:34:35Z" finished-at="2017-02-21T12:34:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNavLink -->
+        <test-method status="PASS" signature="testSearchbox()[pri:0, instance:com.wbl.test.HomePageTest@56ac3a89]" name="testSearchbox" duration-ms="8462" started-at="2017-02-21T12:34:38Z" finished-at="2017-02-21T12:34:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchbox -->
+        <test-method status="PASS" signature="testnewUser()[pri:0, instance:com.wbl.test.HomePageTest@56ac3a89]" name="testnewUser" duration-ms="1526" started-at="2017-02-21T12:34:46Z" finished-at="2017-02-21T12:34:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testnewUser -->
+        <test-method status="PASS" signature="testsigninClick()[pri:0, instance:com.wbl.test.HomePageTest@56ac3a89]" name="testsigninClick" duration-ms="4601" started-at="2017-02-21T12:34:48Z" finished-at="2017-02-21T12:34:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsigninClick -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:com.wbl.test.HomePageTest@56ac3a89]" name="aftersuite" is-config="true" duration-ms="412" started-at="2017-02-21T12:34:53Z" finished-at="2017-02-21T12:34:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- com.wbl.test.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+  <suite name="Suite (3)" duration-ms="21742" started-at="2017-02-21T17:35:35Z" finished-at="2017-02-21T17:35:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21742" started-at="2017-02-21T17:35:35Z" finished-at="2017-02-21T17:35:57Z">
+      <class name="com.wbl.test.SearchResultTest">
+        <test-method status="PASS" signature="beforesuite()[pri:0, instance:com.wbl.test.SearchResultTest@4e1d422d]" name="beforesuite" is-config="true" duration-ms="9178" started-at="2017-02-21T12:35:26Z" finished-at="2017-02-21T12:35:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method status="PASS" signature="before()[pri:0, instance:com.wbl.test.SearchResultTest@4e1d422d]" name="before" is-config="true" duration-ms="3" started-at="2017-02-21T12:35:35Z" finished-at="2017-02-21T12:35:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="testresult()[pri:0, instance:com.wbl.test.SearchResultTest@4e1d422d]" name="testresult" duration-ms="21734" started-at="2017-02-21T12:35:35Z" finished-at="2017-02-21T12:35:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testresult -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:com.wbl.test.SearchResultTest@4e1d422d]" name="aftersuite" is-config="true" duration-ms="335" started-at="2017-02-21T12:35:57Z" finished-at="2017-02-21T12:35:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- com.wbl.test.SearchResultTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (3) -->
+  <suite name="Suite (2)" duration-ms="5694" started-at="2017-02-21T17:35:20Z" finished-at="2017-02-21T17:35:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5694" started-at="2017-02-21T17:35:20Z" finished-at="2017-02-21T17:35:26Z">
+      <class name="com.wbl.test.RegisterPageTest">
+        <test-method status="PASS" signature="beforesuite()[pri:0, instance:com.wbl.test.RegisterPageTest@2038ae61]" name="beforesuite" is-config="true" duration-ms="9174" started-at="2017-02-21T12:35:11Z" finished-at="2017-02-21T12:35:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method status="PASS" signature="before()[pri:0, instance:com.wbl.test.RegisterPageTest@2038ae61]" name="before" is-config="true" duration-ms="3868" started-at="2017-02-21T12:35:20Z" finished-at="2017-02-21T12:35:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="testnewuserregister()[pri:0, instance:com.wbl.test.RegisterPageTest@2038ae61]" name="testnewuserregister" duration-ms="1821" started-at="2017-02-21T12:35:24Z" finished-at="2017-02-21T12:35:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testnewuserregister -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:com.wbl.test.RegisterPageTest@2038ae61]" name="aftersuite" is-config="true" duration-ms="287" started-at="2017-02-21T12:35:26Z" finished-at="2017-02-21T12:35:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- com.wbl.test.RegisterPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (2) -->
+</testng-results>
